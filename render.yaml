@@ -15,9 +15,9 @@ envVarGroups:
 - name: mysql
   envVars:
   - key: MYSQL_DATABASE
-    value: mysql
+    value: cineaste
   - key: MYSQL_USER
-    value: mysql
+    value: 17_28
   - key: MYSQL_PASSWORD
     generateValue: true
   - key: MYSQL_ROOT_PASSWORD
